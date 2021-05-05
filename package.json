@@ -1,5 +1,5 @@
 {
-  "name": "quick-pick-plugin",
+  "name": "quick-open-test",
   "publisher": "theia",
   "keywords": [
     "theia-plugin"
@@ -31,6 +31,6 @@
     "theiaPlugin": "next"
   },
   "theiaPlugin": {
-    "backend": "lib/quick-pick-plugin.js"
+    "backend": "lib/quick-open-test.js"
   }
 }
